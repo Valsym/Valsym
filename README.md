@@ -1,5 +1,14 @@
-## Hi there 👋
-
+<!-- ## Hi there 👋 -->
+<h3>Hi, I'm <a href="http://valsy.ru/" target="_blank">Valery</a>!</h3>
+<hr>
+About me:
+<p></p>
+<ul>
+  <li>Creation, administration and support of websites</li>
+  <li>Author of <a href="http://valsy.ru/category/blog/">Writing for Software Developers</a></li>
+  <li>Based in Moscow</li>
+  <li>Fan of skiing, kayaking & programming</li>
+</ul>
 <!--
 **Valsym/Valsym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
