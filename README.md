@@ -9,6 +9,23 @@ About me:
   <li>Based in Moscow</li>
   <li>Fan of skiing, kayaking & programming</li>
 </ul>
+<hr>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Valsym)](https://github.com/Valsym/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valsym&layout=compact)](https://github.com/Valsym/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=Valsym)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valsym&theme=default)
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 0 0 41.6666666667%; max-width: 41.6666666667%; justify-content: center !important;">
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Valsym&theme=default)
+  </div>
+  <div style="flex: 0 0 41.6666666667%; max-width: 41.6666666667%;">
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Valsym&theme=default)
+  </div>
+</div>
+  
 <!--
 **Valsym/Valsym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
