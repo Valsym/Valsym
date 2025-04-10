@@ -15,8 +15,6 @@ About me:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valsym&layout=compact)](https://github.com/Valsym/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=Valsym)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valsym&theme=default)
 <table>
   <tr>
@@ -28,10 +26,10 @@ About me:
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Valsym&theme=default&utcOffset=8" alt=""></td>
   </tr>
 </table>
+
+![](https://komarev.com/ghpvc/?username=Valsym)
   
 <!--
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Valsym&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Valsym&theme=default)
 
 **Valsym/Valsym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
