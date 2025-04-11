@@ -13,7 +13,7 @@ About me:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Valsym&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valsym&layout=compact)](https://github.com/Valsym/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valsym&layout=compact)](https://github.com/Valsym/github-readme-stats)-->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valsym&theme=default)
 <table>
