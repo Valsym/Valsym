@@ -14,7 +14,7 @@ About me:
 <quote>Tools, languages, and frameworks I work with</quote>
 <p></p>
 <h3>Backend</h3>
-PHP (Laravel, Yii 2), MySQL, sqlite
+PHP (Laravel, Yii 2), MySQL, sqlite, Fortran, C/C++
 <h3>Frontend</h3>
 JavaScript, HTML5, CSS3, Bootstrap, XML
 <h3>DevOps & Environment</h3>
