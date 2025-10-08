@@ -17,7 +17,7 @@ About me:
 PHP (Laravel, Yii 2), MySQL, sqlite
 <h3>Frontend</h3>
 JavaScript, HTML5, CSS3, Bootstrap, XML
-<h3>DevOps </h3>
+<h3>DevOps & Environment</h3>
 Docker, WSL, Docker compose, Linux
 <h3>CMS</h3>
 Wordpress, OpenCart, phpBB
