@@ -14,6 +14,16 @@ About me:
 <quote>Tools, languages, and frameworks I work with</quote>
 <p></p>
 <h3>Backend</h3>
+PHP (Laravel, Yii 2), MySQL, sqlite
+<h3>Frontend</h3>
+JavaScript, HTML5, CSS3, Bootstrap, XML
+<h3>DevOps </h3>
+Docker, WSL, Docker compose, Linux
+<h3>CMS</h3>
+Wordpress, OpenCart, phpBB
+<h3>Tests</h3>
+PHPUnit
+<!--<h3>Backend</h3>
 [![Backend](https://skillicons.dev/icons?i=php,laravel,mysql,sqlite)](https://github.com/tandpfun/skill-icons), Yii 2, Yii 1.1
 <h3>Frontend</h3>
 [![Backend](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev), XML
@@ -25,7 +35,7 @@ About me:
 [![Backend](https://skillicons.dev/icons?i=PHPUnit)](https://skillicons.dev)
 <hr>
 
-<!--<table>
+<table>
   <tr>
     <td><img src="https://camo.githubusercontent.com/0f6e3081e3769bba6a971d5d0b93c314b5e2a2082079f5892932ebf0589584d1/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f7068702d6f726967696e616c2e737667" width="48" height="48" alt="PHP" data-canonical-src="https://profilinator.rishav.dev/skills-assets/php-original.svg" style="max-width: 100%; height: auto; max-height: 48px;"><br>PHP</td>
     <td><img src="https://camo.githubusercontent.com/83c2d7e0236e1b411ca429ea428f3cbf3b9f992c3ac1ff8edef2bd1a9a0d630d/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6c61726176656c2d706c61696e2d776f72646d61726b2e737667" width="48" height="48" alt="Laravel" data-canonical-src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" style="max-width: 100%; height: auto; max-height: 48px;"><br>Laravel  </td>
