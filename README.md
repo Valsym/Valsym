@@ -14,11 +14,11 @@ About me:
 <quote>Tools, languages, and frameworks I work with</quote>
 <p></p>
 <h3>Backend</h3>
-PHP (Laravel, Yii 2), MySQL, sqlite, Fortran, C/C++
+PHP (Laravel, Yii 2), MySQL, SQLite, phpMyAdmin, Fortran, C/C++
 <h3>Frontend</h3>
-JavaScript, HTML5, CSS3, Bootstrap, XML
-<h3>DevOps & Environment</h3>
-Docker, WSL, Docker compose, Linux
+JavaScript, HTML5, CSS3, Bootstrap, Blade, XML
+<h3>DevOps & Environment, IDE</h3>
+Docker, WSL, Docker compose, Linux, phpStorm, Visual Studio Code
 <h3>CMS</h3>
 Wordpress, OpenCart, phpBB
 <h3>Tests</h3>
