@@ -61,9 +61,6 @@ PHPUnit-->
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge)
 
 <hr>
-
-
-<hr>
 <!--<table>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=php" /><br>PHP</td>
@@ -75,6 +72,8 @@ PHPUnit-->
   </tr>
 </table>-->
 <hr>
+
+## Github Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Valsym&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
