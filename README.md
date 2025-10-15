@@ -4,13 +4,13 @@
 About me:
 <p></p>
 <ul>
-  <li>Backend development with a focus on scalable, clean architecture</li>
-  <li>Creation, administration and support of websites</li>
-  <li>Author of <a href="http://valsy.ru/category/blog/">Posts for Software Developers</a></li>
-  <li>Based in Moscow</li>
-  <li>Fan of skiing, kayaking & programming</li>
+  <li>💻 Backend development with a focus on scalable, clean architecture</li>
+  <li>🛠️ Creation, administration and support of websites</li>
+  <li>📝 Author of <a href="http://valsy.ru/category/blog/">Posts for Software Developers</a></li>
+  <li>🌐 Based in Moscow</li>
+  <li>👍 Fan of skiing, kayaking & programming</li>
 </ul>
-<h2>🛠 Tech Stack</h2>
+<!--<h2>🛠 Tech Stack</h2>
 <quote>Tools, languages, and frameworks I work with</quote>
 <p></p>
 <h3>Backend</h3>
@@ -22,25 +22,56 @@ Docker, WSL, Docker compose, Linux, phpStorm, Visual Studio Code
 <h3>CMS</h3>
 Wordpress, OpenCart, phpBB
 <h3>Tests</h3>
-PHPUnit
-<!--<h3>Backend</h3>
-[![Backend](https://skillicons.dev/icons?i=php,laravel,mysql,sqlite)](https://github.com/tandpfun/skill-icons), Yii 2, Yii 1.1
-<h3>Frontend</h3>
-[![Backend](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev), XML
-<h3>DevOps </h3>
-[![Backend](https://skillicons.dev/icons?i=docker linux, ubuntu,nodejs)](https://skillicons.dev), WSL, Docker compose
-<h3>CMS</h3>
-[![Backend](https://skillicons.dev/icons?i=Wordpress)](https://skillicons.dev), OpenCart, phpBB
-<h3>Tests</h3>
-[![Backend](https://skillicons.dev/icons?i=PHPUnit)](https://skillicons.dev)
+PHPUnit-->
+<hr>
+<hr>
+<h2>🛠 Tech Stack</h2>
+<quote>Tools, languages, and frameworks I work with</quote>
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Yii](https://img.shields.io/badge/Yii_2-007ACC?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PHPStorm](https://img.shields.io/badge/PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### CMS
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![OpenCart](https://img.shields.io/badge/OpenCart-34BC9B?style=for-the-badge)
+![phpBB](https://img.shields.io/badge/phpBB-7898BB?style=for-the-badge)
+
+### Testing
+![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge)
+
 <hr>
 
-<table>
+
+<hr>
+<!--<table>
   <tr>
-    <td><img src="https://camo.githubusercontent.com/0f6e3081e3769bba6a971d5d0b93c314b5e2a2082079f5892932ebf0589584d1/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f7068702d6f726967696e616c2e737667" width="48" height="48" alt="PHP" data-canonical-src="https://profilinator.rishav.dev/skills-assets/php-original.svg" style="max-width: 100%; height: auto; max-height: 48px;"><br>PHP</td>
-    <td><img src="https://camo.githubusercontent.com/83c2d7e0236e1b411ca429ea428f3cbf3b9f992c3ac1ff8edef2bd1a9a0d630d/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6c61726176656c2d706c61696e2d776f72646d61726b2e737667" width="48" height="48" alt="Laravel" data-canonical-src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" style="max-width: 100%; height: auto; max-height: 48px;"><br>Laravel  </td>
-    <td><img src="https://camo.githubusercontent.com/ef78c9f37a31cfb4865a0e61aba9bcf02d3e1febffe632f1ce34c43b80817726/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6d7973716c2d6f726967696e616c2d776f72646d61726b2e737667" width="48" height="48" alt="MySQL" data-canonical-src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" style="max-width: 100%; height: auto; max-height: 48px;"><br>MySQL</td>
-    <td></td>
+    <td><img src="https://skillicons.dev/icons?i=php" /><br>PHP</td>
+    <td><img src="https://skillicons.dev/icons?i=laravel" /><br>Laravel  </td>
+    <td><img src="https://skillicons.dev/icons?i=mysql" /><br>MySQL</td>
+    <td><img src="https://skillicons.dev/icons?i=sqlite" /><br>SqLite</td>
+  <td><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"/></code><br>C</td>
+  <td><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"/></code><br>C++</td>
   </tr>
 </table>-->
 <hr>
