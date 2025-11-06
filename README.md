@@ -4,11 +4,12 @@
 About me:
 <p></p>
 <ul>
-  <li>💻 Backend development with a focus on scalable, clean architecture</li>
+  <li>💻 PHP/Laravel development with a focus on scalable, clean architecture</li>
   <li>🛠️ Creation, administration and support of websites</li>
-  <li>📝 Author of <a href="http://valsy.ru/category/blog/">Posts for Software Developers</a></li>
+  <li>📝 Author of Posts for Software Developers</li>
   <li>🌐 Based in Moscow</li>
   <li>👍 Fan of skiing, kayaking & programming</li>
+  <li><a href="https://valsy.ru/">More about me...</a></li>
 </ul>
 <!--<h2>🛠 Tech Stack</h2>
 <quote>Tools, languages, and frameworks I work with</quote>
@@ -75,12 +76,12 @@ PHPUnit-->
 
 ## Github Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Valsym&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=Valsym&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valsym&layout=compact)](https://github.com/Valsym/github-readme-stats)-->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valsym&theme=default)
-<table>
+<!--<table>
   <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Valsym&theme=default" alt=""></td>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Valsym&theme=default" alt=""></td>
@@ -89,7 +90,7 @@ PHPUnit-->
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Valsym&theme=default" alt=""></td>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Valsym&theme=default&utcOffset=8" alt=""></td>
   </tr>
-</table>
+</table>-->
 
 ![](https://komarev.com/ghpvc/?username=Valsym)
   
